@@ -627,7 +627,7 @@
                             </platforms>
                         </from>
                         <to>
-                        <image>stefanopalazzo:latest</image>
+                        <image>stefanopalazzo/my-first-app:latest</image>
                         <tags>
                         <tag>${project.version}</tag>
                         <tag>latest</tag>
